@@ -1,2 +1,2 @@
-# ethereumbook-
-https://github.com/ethereumbook/ethereumbook 的翻译版本
+# ethereumbook
+https://github.com/ethereumbook/ethereumbook 的中文翻译版本
