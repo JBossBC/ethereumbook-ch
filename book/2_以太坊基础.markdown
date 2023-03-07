@@ -86,3 +86,10 @@ Emerald 钱包旨在与 Ethereum Classic 区块链配合使用，但与其他基
 + 不要向本书中显示的任何地址汇款。私钥列在账本上，马上就会有人拿走那笔钱。
 
 现在我们已经介绍了密钥管理和安全的一些基本最佳实践，让我们开始使用 MetaMask 吧！
+
+##  开始使用metamask
+打开 Google Chrome 浏览器并导航至[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
+
+搜索“MetaMask”并单击fox的徽标。您应该会看到类似于中所示的结果![ The detail page of the MetaMask Chrome extension.](https://github.com/JBossBC/ethereumbook-ch/tree/main/book/images/metamask_download.png)
+
+
