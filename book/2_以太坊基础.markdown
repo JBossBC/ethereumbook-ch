@@ -90,6 +90,37 @@ Emerald 钱包旨在与 Ethereum Classic 区块链配合使用，但与其他基
 ##  开始使用metamask
 打开 Google Chrome 浏览器并导航至[https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions)
 
-搜索“MetaMask”并单击fox的徽标。您应该会看到类似于中所示的结果![ The detail page of the MetaMask Chrome extension.](https://github.com/JBossBC/ethereumbook-ch/tree/main/book/images/metamask_download.png)
+搜索“MetaMask”并单击fox的徽标。您应该会看到类似于中所示的结果
+![](https://github.com/JBossBC/ethereumbook-ch/blob/main/book/images/metamask_download.png?raw=true)
+
+
+图 1. MetaMask Chrome 扩展的详细信息页面
+验证您下载的是否是真正的 MetaMask 扩展非常重要，因为有时人们能够偷偷通过 Google 的过滤器进行恶意扩展。
+
++ 在地址栏中显示 ID nkbihfbeogaeaoehlefnkodbefgpgknn
++ 由 https://metamask.io 提供
++ 有超过 1,500 条评论
++ 拥有超过 1,000,000 名用户
+
+
+
+确认您正在查看正确的扩展程序后，单击“添加到 Chrome”进行安装。
+
+
+### 创建一个钱包
+
+
+安装 MetaMask 后，您应该会在浏览器的工具栏中看到一个新图标（狐狸头）。单击它开始。您将被要求接受条款和条件，然后通过输入密码创建您的新以太坊钱包（请参阅 MetaMask Chrome 扩展程序的密码页面）。
+
+！[](https://github.com/JBossBC/ethereumbook-ch/blob/main/book/images/metamask_password.png?raw=true)
+
+图2.metamask chrome 扩展的密码界面
+
+> 提示: 密码控制对metamask的访问，因此任何有权访问您的浏览器的人都无法使用它
+
+
+一旦你设置了密码，MetaMask 会为你生成一个钱包，并向你展示一个由 12 个英文单词组成的助记词备份（参见 MetaMask 创建的钱包助记词备份）。如果 MetaMask 或您的计算机出现问题，这些词可用于任何兼容的钱包以恢复对您的资金的访问。您不需要此恢复的密码； 12个字就够了。
+
+> 提示:在纸上备份你的助记词（12 个单词）两次。将两份纸质备份存放在两个独立的安全位置，例如防火保险箱、上锁的抽屉或保险箱。将纸质备份视为等价于您存储在以太坊钱包中的现金。任何有权访问这些词的人都可以访问并窃取你的钱。
 
 
