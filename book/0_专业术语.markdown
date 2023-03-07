@@ -163,7 +163,7 @@ ethereum virtual machine.执行字节码的基于堆栈的虚拟机。在以太�
 
 ## finney
 
-ether的一种面额。1 finney=1015wei,103 finney =1 ether
+ether的一种面额。1 finney=10^15wei,10^3 finney =1 ether
 
 ## fork
 
@@ -455,7 +455,7 @@ Solidity 程序中的 EVM 汇编语言。 Solidity 对内联汇编的支持使�
 
 ## szabo
 
-ether的一种面额。1 szabo=1012 wei，106 szabo=1 ether
+ether的一种面额。1 szabo=10^12 wei，10^6 szabo=1 ether
 
 ## tangerine whistle
 
