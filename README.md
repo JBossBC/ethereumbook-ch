@@ -11,6 +11,7 @@ https://github.com/ethereumbook/ethereumbook 的中文翻译版本
 + [第二章:以太坊基础](https://github.com/JBossBC/ethereumbook-ch/blob/main/book/2_%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%9F%BA%E7%A1%80.markdown)
 + [第三章:以太坊客户端](https://github.com/JBossBC/ethereumbook-ch/blob/main/book/3_%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%AE%A2%E6%88%B7%E7%AB%AF.markdown)
 + [第四章:密码学](https://github.com/JBossBC/ethereumbook-ch/blob/main/book/4_%E5%AF%86%E7%A0%81%E5%AD%A6.markdown)
++ [第五章：钱包]()
 
 
 ## 还在更新中(请等待)
